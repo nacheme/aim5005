@@ -10,3 +10,6 @@
 - `make` will build and run all tests
 - `make lr` will only run the tests for linear regression
 - `make features` will run the test for features (this is your first assignment)
+
+To Run tests: 
+python -m pytest. 
